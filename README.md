@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+You can run the app using the link https://tinder-clone-802b9.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
